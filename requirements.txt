@@ -1,0 +1,23 @@
+# --- Orquestación del RAG (LangChain) ---
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+numpy<2.0.0
+torch>=2.0.0
+sentence-transformers
+transformers<4.45.0
+google-genai
+
+
+# --- Interfaz del Bot y Variables de Entorno ---
+python-telegram-bot
+python-dotenv
+
+# --- Integración con Wikipedia ---
+Wikipedia
+
+# --- Migración Agente ---
+langchain-google-genai
+langsmith
